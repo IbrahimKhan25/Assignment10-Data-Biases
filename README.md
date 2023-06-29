@@ -1,4 +1,4 @@
-# Assignment10-Data-Biases
+Data Biases in Perspective API
 
 CONTENT WARNING: 
 The Perspective API is designed for use in content moderation, and the dataset contained very “toxic” comments. Some of the comments in this dataset are racist, sexist, ableist, and offensive. Some comments contain profane language
